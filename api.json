@@ -1,0 +1,42 @@
+{
+  "animes": [
+    {
+      "id" : 1,
+      "img": "https://i.ibb.co/F3Z1rfF/akamegakill.jpg",
+      "Nombre": "Akame Ga Kill!",
+      "Genero": "Acción, aventura, drama, fantasía oscura",
+      "Descripcion": "La historia se centra en Tatsumi, un joven aldeano que viaja a la capital para recaudar dinero para su hogar sólo para descubrir una fuerte corrupción en el país."
+    },
+    {
+        "id" : 2,
+        "img": "https://i.ibb.co/41n3xS3/sao.jpg",
+        "Nombre": "Sword Art Online",
+        "Genero": "Aventura, romance, acción, fantasía.",
+        "Descripcion": "Un chico de 14 años llamado kirito entra en un juego de realidad virtual llamado sword arte online (SAO)."
+      },
+      {
+        "id" : 3,
+        "img": "https://i.ibb.co/f2s4V2F/rezero.jpg",
+        "Nombre": "Re:Zero kara Hajimeru",
+        "Genero": "Acción, aventura, drama, romance.",
+        "Descripcion": " Subaru Natsuki, se ve transportado a otro mundo en su camino a casa, hasta que de repente, descubre que no tiene ningún poder especial más allá de poder esquivar a la muerte."
+      },
+      {
+        "id" : 4,
+        "img": "https://i.ibb.co/PxDVDPg/demonsa.jpg",
+        "Nombre": "Kimetsu no Yaiba",
+        "Genero": "Acción, aventura, drama, fantasía oscura.",
+        "Descripcion": "Tanjirō Kamado, un adolescente cuya familia fue cruelmente asesinada por un Demonio el cual convirtió a su hermana Nezuko en una de estas criaturas."
+      },
+      {
+        "id" : 5,
+        "img": "https://i.ibb.co/gSCwxdK/nanatsu.jpg",
+        "Nombre": "Nanatsu no Taizai",
+        "Genero": "Acción, aventura, comedia, drama.",
+        "Descripcion": " La trama principal se sitúa en una época medieval y sigue las aventuras del escuadrón de caballeros conocidos como los siete pecados capitales."
+      }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

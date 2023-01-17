@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-server",
+  "version": "0.0.1",
+  "description": "rest server nodejs",
+  "main": "app.js",
+  "scripts": {
+    "servicio": "json-server --watch api.json"
+  },
+  "author": "Wars08",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "nodejs-server": "^1.0.24"
+  }
+}
